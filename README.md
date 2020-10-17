@@ -1,2 +1,3 @@
 # taro-template
-A Taro basic template.
+
+A basic template of Taro.
