@@ -1,0 +1,10 @@
+{
+  "extends": [
+    "taro/react",
+    "eslint-config-airbnb-base",
+    "plugin:prettier/recommended"
+  ],
+  "rules": {
+    "no-console": ["error", { "allow": ["warn", "error"] }]
+  }
+}
